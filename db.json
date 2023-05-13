@@ -2,12 +2,12 @@
   "players": [
     {
       "name": "Gigi",
-      "count": 2,
+      "count": 6,
       "id": 1
     },
     {
       "name": "Squalo",
-      "count": 2,
+      "count": 12,
       "id": 2
     },
     {
@@ -17,12 +17,12 @@
     },
     {
       "name": "Marco",
-      "count": 3,
+      "count": 5,
       "id": 4
     },
     {
       "name": "Computer",
-      "count": 1,
+      "count": 2,
       "id": 5
     }
   ]
